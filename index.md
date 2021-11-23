@@ -51,7 +51,7 @@ Student Golang Developer
 
 - Started as a PHP developer responsible for maintaning Purple dashboard, where I identified issue with the system of being able to  
 
-## Publications
+## Projects
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
