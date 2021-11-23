@@ -46,10 +46,11 @@ Student Golang Developer
 
 ## Education
 
-`2015-2019`
-__The University of Salford__
 
-- Bachelor of Science - BS, Web Development
+### The University of Salford
+
+`2015-2019`
+Bachelor of Science - BS, Web Development
 - Final year project: voice controlled terminal assistant (built with Go)
 
 
