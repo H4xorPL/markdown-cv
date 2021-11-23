@@ -4,10 +4,10 @@ title: Igor Filipek's CV
 ---
 # Igor Filipek
 
-- Software Engineer
-
 <div id="webaddress">
-<a href="igor.filipek@hotmail.com">igor.filipek@hotmail.com</a>
+<a href="mailto:igor.filipek@hotmail.com">igor.filipek@hotmail.com</a>
+    | <a href="https://github.com/h4xorpl/">github.com/h4xorpl</a>
+    | <a href="https://www.linkedin.com/in/igor-filipek-263403129/">LinkedIn</a>
 </div>
 
 
@@ -25,8 +25,8 @@ __The University of Salford__
 
 ## Experience
 
-### *TapTrip*
-- Manchester, UK
+### *TapTrip* |
+__Manchester, UK__
 
 `Nov 2019 - Present`
     Principal Software Engineer
