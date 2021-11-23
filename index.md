@@ -4,7 +4,7 @@ title: Igor Filipek's CV
 ---
 # Igor Filipek
 
-Software Engineer
+- Software Engineer
 
 <div id="webaddress">
 <a href="igor.filipek@hotmail.com">igor.filipek@hotmail.com</a>
@@ -35,7 +35,7 @@ __The University of Salford__
 ## Experience
 
 ### *TapTrip*
-Manchester, UK
+- Manchester, UK
 
 `Nov 2019 - Present`
 Principal Software Engineer
@@ -47,13 +47,13 @@ Software Engineer
 Student Software Developer
 
 ### *Techstars*
-New York City, USA
+- New York City, USA
 
 `Sep 2019 - Dec 2019`
 Alumni
 
 ### *Purple*
-Manchester, UK
+- Manchester, UK
 
 `Aug 2017 - Jul 2018`
 Student Golang Developer
