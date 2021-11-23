@@ -15,14 +15,6 @@ title: Igor Filipek's CV
 
 Golang
 
-## Education
-
-`2015-2019`
-__The University of Salford__
-
-- Bachelor of Science - BS, Web Development
-
-
 ## Experience
 
 ### *TapTrip* |
@@ -51,24 +43,14 @@ Student Golang Developer
 
 - Started as a PHP developer responsible for maintaning Purple dashboard, where I identified issue with the system of being able to  
 
-## Projects
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Education
 
-### Journals
+`2015-2019`
+__The University of Salford__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Bachelor of Science - BS, Web Development
+- Final year project: voice controlled terminal assistant (built with Go)
 
 
 ## Licenses & certifications
