@@ -3,6 +3,7 @@ layout: cv
 title: Igor Filipek's CV
 ---
 # Igor Filipek
+
 Software Engineer
 
 <div id="webaddress">
@@ -15,8 +16,8 @@ Software Engineer
 Standing on the shoulders of giants
 
 ### Specialized in
-Golang, microservices, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+Golang, microservices,
 
 ### Research interests
 
@@ -33,7 +34,8 @@ __The University of Salford__
 
 ## Experience
 
-### *TapTrip*, Manchester, UK
+### *TapTrip*
+Manchester, UK
 
 `Nov 2019 - Present`
 Principal Software Engineer
@@ -44,7 +46,14 @@ Software Engineer
 `Oct 2018 - Jun 2019`
 Student Software Developer
 
-### *Purple*, Manchester, UK
+### *Techstars*
+New York City, USA
+
+`Sep 2019 - Dec 2019`
+Alumni
+
+### *Purple*
+Manchester, UK
 
 `Aug 2017 - Jul 2018`
 Student Golang Developer
