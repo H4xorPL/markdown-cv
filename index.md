@@ -11,18 +11,9 @@ title: Igor Filipek's CV
 </div>
 
 
-## Currently
+## Interested in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Golang, microservices,
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Golang
 
 ## Education
 
@@ -38,10 +29,10 @@ __The University of Salford__
 - Manchester, UK
 
 `Nov 2019 - Present`
-Principal Software Engineer
+    Principal Software Engineer
 
 `Jun 2019 - Nov 2019`
-Software Engineer
+    Software Engineer
 
 `Oct 2018 - Jun 2019`
 Student Software Developer
