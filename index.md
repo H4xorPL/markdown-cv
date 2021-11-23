@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Igor Filipek's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Igor Filipek
+Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="igor.filipek@hotmail.com">igor.filipek@hotmail.com</a>
 </div>
 
 
@@ -16,8 +15,7 @@ Physicist, Mathematician, Cambridge professor.
 Standing on the shoulders of giants
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Golang, microservices, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
@@ -27,29 +25,31 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__The University of Salford__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science - BS, Web Development
 
 
+## Experience
 
-## Awards
+### *TapTrip*, Manchester, UK
 
-`2012`
-President, *Royal Society*, London, UK
+`Nov 2019 - Present`
+Principal Software Engineer
 
-Associate, *French Academy of Science*, Paris, France
+`Jun 2019 - Nov 2019`
+Software Engineer
 
+`Oct 2018 - Jun 2019`
+Student Software Developer
 
+### *Purple*, Manchester, UK
+
+`Aug 2017 - Jul 2018`
+Student Golang Developer
+
+- Started as a PHP developer responsible for maintaning Purple dashboard, where I identified issue with the system of being able to  
 
 ## Publications
 
@@ -71,21 +71,16 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Licenses & certifications
 
-`1600`
-__Royal Mint__, London
+`Aug 2020`
+__Scrum Master Certified (SMC)__, Scrum Alliance
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Issued Aug 2020 - Expires Aug 2022
+- Credential ID 001104481
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2021 -->
 
 
